@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "三日轻记 · 饮食打卡",
+  "short_name": "三日轻记",
+  "lang": "zh-CN",
+  "description": "三日饮食计划与本机记录，非医疗处方。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#f5f3ee",
+  "icons": [
+    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
